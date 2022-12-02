@@ -1,0 +1,11 @@
+variables
+reglas de ejecucion
+condicionales
+arreglos
+bucles
+recursion
+estructuras avanzadas
+lectura y escritura de archivos
+pandas
+numpy
+matplotlib
