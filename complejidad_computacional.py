@@ -59,3 +59,9 @@ numeros2=[4,9,11,30]
 #respuesta_ordenada=mezclar(numeros1,numeros2)
 merge_sort(lista)
 print(lista)
+
+#en una lista de numeros siempre hay un numero menor y uno mayor -> calculalos
+#crear un arreglo de modas de tamaño (mayor - menor - 1)
+lista=[5,2,8,5,5,7,6,3,9,9,8,7,5]
+lista=[0,1,1,0,4,1,2,2,2]
+#2,3,5,5,5,5,6,7,7,8,8,9,9
